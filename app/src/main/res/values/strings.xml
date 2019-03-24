@@ -1,3 +1,43 @@
 <resources>
     <string name="app_name">MotionLayoutSamples</string>
+    <string name="collapsing_toolbar">Collapsing Toolbar</string>
+    <string name="long_text">
+        This is some text This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text
+
+        This is some text This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text This is some text
+        This is some text This is some text This is some text This is some text
+    </string>
 </resources>
