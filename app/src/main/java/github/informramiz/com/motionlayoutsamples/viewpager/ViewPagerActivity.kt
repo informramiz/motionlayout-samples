@@ -11,5 +11,8 @@ class ViewPagerActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_view_pager)
         setSupportActionBar(toolbar)
+
+        val adapter = ViewPagerAdapter()
+        view_pager.adapter = adapter
     }
 }
