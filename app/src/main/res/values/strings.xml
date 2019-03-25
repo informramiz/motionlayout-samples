@@ -41,4 +41,6 @@
         This is some text This is some text This is some text This is some text
     </string>
     <string name="monterey">Monterey</string>
+    <string name="hello">Hello</string>
+    <string name="view_pager">View Pager</string>
 </resources>
