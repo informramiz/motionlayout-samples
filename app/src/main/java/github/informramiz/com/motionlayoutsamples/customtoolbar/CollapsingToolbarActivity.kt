@@ -1,7 +1,8 @@
-package github.informramiz.com.motionlayoutsamples
+package github.informramiz.com.motionlayoutsamples.customtoolbar
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import github.informramiz.com.motionlayoutsamples.R
 
 class CollapsingToolbarActivity : AppCompatActivity() {
 

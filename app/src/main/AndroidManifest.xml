@@ -19,7 +19,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".CollapsingToolbarActivity"
+            android:name=".customtoolbar.CollapsingToolbarActivity"
             android:label="@string/collapsing_toolbar"/>
     </application>
 
