@@ -25,4 +25,18 @@
         android:layout_height="wrap_content"
         app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
 
+    <github.informramiz.com.motionlayoutsamples.viewpager.ViewPagerHeader
+        android:id="@+id/view_pager_header"
+        android:layout_width="match_parent"
+        app:layoutDescription="@xml/scene_23"
+        app:progress="0"
+        android:layout_height="230dp"
+        android:layout_gravity="top">
+        <com.airbnb.lottie.LottieAnimationView
+            android:id="@+id/animation_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:lottie_rawRes="@raw/walkthrough"/>
+    </github.informramiz.com.motionlayoutsamples.viewpager.ViewPagerHeader>
+
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

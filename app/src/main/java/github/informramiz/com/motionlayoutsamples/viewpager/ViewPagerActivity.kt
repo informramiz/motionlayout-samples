@@ -14,5 +14,7 @@ class ViewPagerActivity : AppCompatActivity() {
 
         val adapter = ViewPagerAdapter()
         view_pager.adapter = adapter
+
+        view_pager.addOnPageChangeListener(view_pager_header)
     }
 }
