@@ -29,9 +29,15 @@
         android:id="@+id/view_pager_header"
         android:layout_width="match_parent"
         app:layoutDescription="@xml/scene_23"
-        app:progress="0"
         android:layout_height="230dp"
         android:layout_gravity="top">
+
+        <View
+            android:id="@+id/tab"
+            android:layout_width="@dimen/button_width"
+            android:layout_height="@dimen/button_height"
+            android:background="@color/colorAccent"/>
+
         <com.airbnb.lottie.LottieAnimationView
             android:id="@+id/animation_view"
             android:layout_width="match_parent"
